@@ -8,6 +8,9 @@ Homepage: localhost/game/index.php
 
 Admin page: localhost/game/admin.php
 
+Username: admin
+Password: admin
+
 Cart page: localhost/game/cart.php
 
 Some bug I cannot fix, when add new game by admin page, reload page(F5) it auto add that item
